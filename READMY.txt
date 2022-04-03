@@ -37,7 +37,7 @@
 
     git help --all
     
-
-    git remote add origin https://github.com/aymanibrahem/node-projects.git
-    git push --set-upstream origin master
+    *add project to github
+        git remote add origin https://github.com/aymanibrahem/node-projects.git
+        git push --set-upstream origin master
 
