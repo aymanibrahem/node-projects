@@ -1,3 +1,4 @@
+* Start node commands--------------------------------------------------------------
 1- install package.json
     npm init -y
 
@@ -18,7 +19,10 @@
 6 setting port  
     set PORT=7000
 
-*git commands
+* End node commands----------------------------------------------------------------
+
+
+* Start git commands --------------------------------------------------------------
     git --version
     git config --global user.name "w3schools-test"
     git config --global user.email "test@w3schools.com"
@@ -34,6 +38,7 @@
     git commit -m "First release of Hello World!"
 
     git log
+        q to exit
 
     git help --all
     
@@ -44,3 +49,4 @@
         *add edit to my project on github
             git push origin
 
+*End git commands--------------------------------------------------------------------
