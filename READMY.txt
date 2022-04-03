@@ -41,3 +41,6 @@
         git remote add origin https://github.com/aymanibrahem/node-projects.git
         git push --set-upstream origin master
 
+        *add edit to my project on github
+            git push origin
+
