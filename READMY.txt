@@ -17,3 +17,27 @@
 
 6 setting port  
     set PORT=7000
+
+*git commands
+    git --version
+    git config --global user.name "w3schools-test"
+    git config --global user.email "test@w3schools.com"
+
+    git init
+
+    git status
+    git status --short
+
+    git add <file name>
+    git add --all
+
+    git commit -m "First release of Hello World!"
+
+    git log
+
+    git help --all
+    
+
+    git remote add origin https://github.com/aymanibrahem/node-projects.git
+    git push --set-upstream origin master
+

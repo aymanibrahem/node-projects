@@ -10,4 +10,3 @@ app.get('/',(req, res) =>  {
 app.listen(port, () => {
     console.log(`app listining on port ${port}`);
 });
-console.log("hi");
