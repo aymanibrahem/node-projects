@@ -1,0 +1,19 @@
+1- install package.json
+    npm init -y
+
+2- install express
+    npm install express
+
+3- install nodemon 
+    npm install nodemon
+
+4- inside package.json add under line To scripts property 
+    "start": "nodemon app.js",
+           
+
+5- Runnig 
+    npm start
+    node app
+
+6 setting port  
+    set PORT=7000
