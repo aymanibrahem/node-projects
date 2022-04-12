@@ -50,3 +50,17 @@
             git push origin
 
 *End git commands--------------------------------------------------------------------
+
+*Start testing ----------------------------------------------------------------------
+    * Testing REST API Using PowerShell
+        Invoke-webrequest -uri http://localhost:3000 -method Get
+        (Invoke-webrequest -uri http://localhost:3000 -method Get).Content
+        (Invoke-webrequest -uri http://localhost:3000 -method Get).StatusCode
+
+        Invoke-RestMethod -uri http://localhost:3000/api/Students -method Get
+
+        Invoke-RestMethod -uri http://localhost:3000/welcome.html  -method POST -body @{fnm="ayman";lnm="omran"}
+        Invoke-webrequest -uri http://localhost:3000/welcome.html  -method POST -body @{fnm="ayman";lnm="omran"}
+
+    * Testing REST API Using postwoman online .
+    * Testing REST API Using postman .
