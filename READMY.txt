@@ -19,6 +19,11 @@
 6 setting port  
     set PORT=7000
 
+
+7- validation 
+    npm install ajv 
+    doc: https://json-schema.org/understanding-json-schema/   
+
 * End node commands----------------------------------------------------------------
 
 

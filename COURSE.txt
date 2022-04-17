@@ -1,12 +1,17 @@
 Course name : Node Js  Mahara Tech  starting 1-4-2022
 
 CH04 
-    CH04_VID07  Complete 12-4-2022
-    CH04_VID08  Complete 12-4-2022
-    CH04_VID09  Complete 12-4-2022
-    CH04_VID10  Complete 12-4-2022
-    CH04_VID11  Complete 12-4-2022
-    CH04_VID12  Complete 12-4-2022
-    CH04_VID13  Complete 12-4-2022
-    CH04_VID14  Complete 12-4-2022
-    CH04_VID15  
+    VID07   Complete 12-4-2022
+    VID08   Complete 12-4-2022
+    VID09   Complete 12-4-2022
+    VID10   Complete 12-4-2022
+    VID11   Complete 12-4-2022
+    VID12   Complete 12-4-2022
+    VID13   Complete 12-4-2022
+    VID14   Complete 12-4-2022
+    VID15   Complete 12-4-2022
+
+CH05    : start 16-4-2022
+    VID02   Complete 12-4-2022
+    VID03   Complete 12-4-2022 
+    VID04   Complete 17-4-2022
